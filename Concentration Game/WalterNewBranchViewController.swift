@@ -21,6 +21,10 @@ class WalterNewBranchViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    func passwordReset() {
+        //Cool Password Reset code....
+        
+    }
 
     /*
     // MARK: - Navigation
