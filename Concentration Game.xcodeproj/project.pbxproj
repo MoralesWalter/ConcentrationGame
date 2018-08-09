@@ -12,6 +12,7 @@
 		D111E20A211949D0006EC430 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D111E208211949D0006EC430 /* Main.storyboard */; };
 		D111E20C211949D0006EC430 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D111E20B211949D0006EC430 /* Assets.xcassets */; };
 		D111E20F211949D0006EC430 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D111E20D211949D0006EC430 /* LaunchScreen.storyboard */; };
+		D1C81A95211C844E00FB484D /* WalterNewBranchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1C81A94211C844E00FB484D /* WalterNewBranchViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D111E20B211949D0006EC430 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D111E20E211949D0006EC430 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D111E210211949D0006EC430 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1C81A94211C844E00FB484D /* WalterNewBranchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalterNewBranchViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				D111E20B211949D0006EC430 /* Assets.xcassets */,
 				D111E20D211949D0006EC430 /* LaunchScreen.storyboard */,
 				D111E210211949D0006EC430 /* Info.plist */,
+				D1C81A94211C844E00FB484D /* WalterNewBranchViewController.swift */,
 			);
 			path = "Concentration Game";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D111E207211949D0006EC430 /* ViewController.swift in Sources */,
+				D1C81A95211C844E00FB484D /* WalterNewBranchViewController.swift in Sources */,
 				D111E205211949D0006EC430 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
